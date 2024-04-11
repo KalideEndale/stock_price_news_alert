@@ -1,0 +1,1 @@
+Stock alert script first scrapes the stock ticker provided via an api and pulls the open, close, high, low and volume data. It then pulls relevant news articles on the ticker from a news api and provides a text message with the top 3 articles to the user if there is a stock price change of 5% or more (up or down).
